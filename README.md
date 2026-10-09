@@ -19,3 +19,4 @@ QuickNotes is a lightweight web application designed to help users capture and c
 - How to build elements dynamically in JavaScript using `document.createElement()` instead of `innerHTML`.
 - How to stringify and parse array data to utilize `localStorage` for persistence.
 - How to structure responsive card layouts and forms using CSS Flexbox.
+- How to implement a confirmation dialog for bulk deletions.
